@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch==2.3.0+cu121
+transformers
+pdfplumber
+google-generativeai
+streamlit
+requests
+scikit-learn
+numpy
+python-multipart
